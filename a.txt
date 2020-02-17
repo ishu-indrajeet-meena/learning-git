@@ -1,4 +1,5 @@
 Some lines are in this file
 line one 
 line two
+line three is added
 
